@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a37a3cf0-7282-45a3-af80-9e0b9e55c42a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxQQGynwYI9ZkCw1UnP62zQWbE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Python.cave_game">
+    <configuration name="cave_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shelve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cave_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cave_initialize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shelve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cave_initialize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shelve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shelve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recipes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Shelve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recipes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cave_game" />
+        <item itemvalue="Python.cave_initialize" />
+        <item itemvalue="Python.challenge" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.recipes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37a3cf0-7282-45a3-af80-9e0b9e55c42a" name="Default Changelist" comment="" />
+      <created>1585778247159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585778247159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="273" width="579" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585863917624">
+      <screen x="0" y="27" width="1920" height="892" />
+    </state>
+    <state x="369" y="273" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.892@0.27.1920.892" timestamp="1585863917624" />
+    <state x="179" y="269" width="579" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.931.876@0.27.931.876" timestamp="1585860796204" />
+    <state x="189" y="269" width="594" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.982.876@0.27.982.876" timestamp="1585780255356" />
+    <state x="198" y="213" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585859755311">
+      <screen x="0" y="27" width="931" height="876" />
+    </state>
+    <state x="198" y="213" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.931.876@0.27.931.876" timestamp="1585859755311" />
+    <state x="274" y="222" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585780458740">
+      <screen x="0" y="27" width="982" height="876" />
+    </state>
+    <state x="274" y="222" width="424" height="484" key="FileChooserDialogImpl/0.27.982.876@0.27.982.876" timestamp="1585780458740" />
+    <state width="912" height="261" key="GridCell.Tab.0.bottom" timestamp="1585866219236">
+      <screen x="0" y="27" width="958" height="876" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.bottom/0.27.1920.892@0.27.1920.892" timestamp="1585864336576" />
+    <state width="885" height="261" key="GridCell.Tab.0.bottom/0.27.931.876@0.27.931.876" timestamp="1585863300058" />
+    <state width="912" height="261" key="GridCell.Tab.0.bottom/0.27.958.876@0.27.958.876" timestamp="1585866219236" />
+    <state width="936" height="353" key="GridCell.Tab.0.bottom/0.27.982.876@0.27.982.876" timestamp="1585782459093" />
+    <state width="912" height="261" key="GridCell.Tab.0.center" timestamp="1585866219235">
+      <screen x="0" y="27" width="958" height="876" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.center/0.27.1920.892@0.27.1920.892" timestamp="1585864336575" />
+    <state width="885" height="261" key="GridCell.Tab.0.center/0.27.931.876@0.27.931.876" timestamp="1585863300057" />
+    <state width="912" height="261" key="GridCell.Tab.0.center/0.27.958.876@0.27.958.876" timestamp="1585866219235" />
+    <state width="936" height="353" key="GridCell.Tab.0.center/0.27.982.876@0.27.982.876" timestamp="1585782459091" />
+    <state width="912" height="261" key="GridCell.Tab.0.left" timestamp="1585866219234">
+      <screen x="0" y="27" width="958" height="876" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.left/0.27.1920.892@0.27.1920.892" timestamp="1585864336575" />
+    <state width="885" height="261" key="GridCell.Tab.0.left/0.27.931.876@0.27.931.876" timestamp="1585863300056" />
+    <state width="912" height="261" key="GridCell.Tab.0.left/0.27.958.876@0.27.958.876" timestamp="1585866219234" />
+    <state width="936" height="353" key="GridCell.Tab.0.left/0.27.982.876@0.27.982.876" timestamp="1585782459091" />
+    <state width="912" height="261" key="GridCell.Tab.0.right" timestamp="1585866219235">
+      <screen x="0" y="27" width="958" height="876" />
+    </state>
+    <state width="1874" height="261" key="GridCell.Tab.0.right/0.27.1920.892@0.27.1920.892" timestamp="1585864336576" />
+    <state width="885" height="261" key="GridCell.Tab.0.right/0.27.931.876@0.27.931.876" timestamp="1585863300057" />
+    <state width="912" height="261" key="GridCell.Tab.0.right/0.27.958.876@0.27.958.876" timestamp="1585866219235" />
+    <state width="936" height="353" key="GridCell.Tab.0.right/0.27.982.876@0.27.982.876" timestamp="1585782459092" />
+    <state x="119" y="82" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585862833286">
+      <screen x="0" y="27" width="931" height="876" />
+    </state>
+    <state x="119" y="82" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.931.876@0.27.931.876" timestamp="1585862833286" />
+    <state x="0" y="168" width="948" height="592" key="new project wizard" timestamp="1585953579819">
+      <screen x="0" y="27" width="958" height="876" />
+    </state>
+    <state x="0" y="168" width="948" height="592" key="new project wizard/0.27.958.876@0.27.958.876" timestamp="1585953579819" />
+    <state x="128" y="213" width="672" height="678" key="search.everywhere.popup" timestamp="1585862884593">
+      <screen x="0" y="27" width="931" height="876" />
+    </state>
+    <state x="128" y="213" width="672" height="678" key="search.everywhere.popup/0.27.931.876@0.27.931.876" timestamp="1585862884593" />
+  </component>
+</project>

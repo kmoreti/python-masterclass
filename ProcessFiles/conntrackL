@@ -1,0 +1,12 @@
+tcp   2 117 SYN_SENT src=192.168.1.6 dst=192.168.1.7 sport=32775 dport=55 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   2 117 SYN_SENT src=192.168.1.6 dst=192.168.1.7 sport=32775 dport=55 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 CLOSE src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 SYN_SENT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 SYN_SENT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 SYN_SENT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 SYN_SENT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 SYN_SENT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 SYN_SENT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 SYN_SENT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 TIME_WAIT src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2
+tcp   6 117 ESTABLISHED src=192.168.1.6 dst=192.168.1.9 sport=32775 dport=22 [UNREPLIED] src=192.168.1.9 dst=192.168.1.6 sport=22 dport=32775 [ASSURED] use=2

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73bc04d5-2a30-43fa-bfa1-d9911ada3ee3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a578iPjmvglvakAnu9YOqCGebG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Python.challenge">
+    <configuration name="challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datacalc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datacalc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datacalc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datacalc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datacalc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datacalc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datacalc2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datacalc4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datacalc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datacalc4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.challenge" />
+        <item itemvalue="Python.datacalc4" />
+        <item itemvalue="Python.datacalc2" />
+        <item itemvalue="Python.datacalc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73bc04d5-2a30-43fa-bfa1-d9911ada3ee3" name="Default Changelist" comment="" />
+      <created>1586013443979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586013443979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="926" height="222" key="GridCell.Tab.0.bottom" timestamp="1586099973599">
+      <screen x="0" y="27" width="972" height="876" />
+    </state>
+    <state width="926" height="222" key="GridCell.Tab.0.bottom/0.27.972.876@0.27.972.876" timestamp="1586099973599" />
+    <state width="937" height="222" key="GridCell.Tab.0.bottom/0.27.983.883@0.27.983.883" timestamp="1586097397573" />
+    <state width="926" height="222" key="GridCell.Tab.0.center" timestamp="1586099973598">
+      <screen x="0" y="27" width="972" height="876" />
+    </state>
+    <state width="926" height="222" key="GridCell.Tab.0.center/0.27.972.876@0.27.972.876" timestamp="1586099973598" />
+    <state width="937" height="222" key="GridCell.Tab.0.center/0.27.983.883@0.27.983.883" timestamp="1586097397572" />
+    <state width="926" height="222" key="GridCell.Tab.0.left" timestamp="1586099973597">
+      <screen x="0" y="27" width="972" height="876" />
+    </state>
+    <state width="926" height="222" key="GridCell.Tab.0.left/0.27.972.876@0.27.972.876" timestamp="1586099973597" />
+    <state width="937" height="222" key="GridCell.Tab.0.left/0.27.983.883@0.27.983.883" timestamp="1586097397571" />
+    <state width="926" height="222" key="GridCell.Tab.0.right" timestamp="1586099973598">
+      <screen x="0" y="27" width="972" height="876" />
+    </state>
+    <state width="926" height="222" key="GridCell.Tab.0.right/0.27.972.876@0.27.972.876" timestamp="1586099973598" />
+    <state width="937" height="222" key="GridCell.Tab.0.right/0.27.983.883@0.27.983.883" timestamp="1586097397573" />
+    <state x="0" y="168" width="962" height="592" key="new project wizard" timestamp="1586099972041">
+      <screen x="0" y="27" width="972" height="876" />
+    </state>
+    <state x="0" y="168" width="962" height="592" key="new project wizard/0.27.972.876@0.27.972.876" timestamp="1586099972041" />
+    <state x="222" y="213" key="search.everywhere.popup" timestamp="1586096327806">
+      <screen x="0" y="27" width="1119" height="876" />
+    </state>
+    <state x="222" y="213" key="search.everywhere.popup/0.27.1119.876@0.27.1119.876" timestamp="1586096327806" />
+  </component>
+</project>

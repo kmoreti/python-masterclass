@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e26030f-17d2-475c-b9f1-ca109cad8e60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YaobQZxQJwsDxYrb3RXII2l71j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Iterators" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager" selected="Python.strings2">
+    <configuration name="adventure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgramFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contrived" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgramFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contrived.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hilo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgramFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hilo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="strings2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgramFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="summarychallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgramFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/summarychallenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.strings2" />
+        <item itemvalue="Python.summarychallenge" />
+        <item itemvalue="Python.adventure" />
+        <item itemvalue="Python.hilo" />
+        <item itemvalue="Python.contrived" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e26030f-17d2-475c-b9f1-ca109cad8e60" name="Default Changelist" comment="" />
+      <created>1583190136386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583190136386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="149" key="#xdebugger.evaluate" timestamp="1583276080968">
+      <screen x="0" y="27" width="958" height="941" />
+    </state>
+    <state x="474" y="149" key="#xdebugger.evaluate/0.27.958.941@0.27.958.941" timestamp="1583276080968" />
+    <state x="265" y="238" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584657789247">
+      <screen x="0" y="27" width="975" height="876" />
+    </state>
+    <state x="265" y="238" key="FileChooserDialogImpl/0.27.975.876@0.27.975.876" timestamp="1584657789247" />
+    <state x="265" y="254" width="424" height="484" key="FileChooserDialogImpl/0.27.975.941@0.27.975.941" timestamp="1583878184657" />
+    <state width="1874" height="268" key="GridCell.Tab.0.bottom" timestamp="1584482398749">
+      <screen x="0" y="27" width="1920" height="892" />
+    </state>
+    <state width="1874" height="268" key="GridCell.Tab.0.bottom/0.27.1920.892@0.27.1920.892" timestamp="1584482398749" />
+    <state width="1874" height="294" key="GridCell.Tab.0.bottom/0.27.1920.957@0.27.1920.957" timestamp="1584233791181" />
+    <state width="912" height="299" key="GridCell.Tab.0.bottom/0.27.958.941@0.27.958.941" timestamp="1583792185662" />
+    <state width="919" height="299" key="GridCell.Tab.0.bottom/0.27.975.941@0.27.975.941" timestamp="1583965731325" />
+    <state width="1874" height="268" key="GridCell.Tab.0.center" timestamp="1584482398748">
+      <screen x="0" y="27" width="1920" height="892" />
+    </state>
+    <state width="1874" height="268" key="GridCell.Tab.0.center/0.27.1920.892@0.27.1920.892" timestamp="1584482398748" />
+    <state width="1874" height="294" key="GridCell.Tab.0.center/0.27.1920.957@0.27.1920.957" timestamp="1584233791180" />
+    <state width="912" height="299" key="GridCell.Tab.0.center/0.27.958.941@0.27.958.941" timestamp="1583792185658" />
+    <state width="919" height="299" key="GridCell.Tab.0.center/0.27.975.941@0.27.975.941" timestamp="1583965731324" />
+    <state width="1874" height="268" key="GridCell.Tab.0.left" timestamp="1584482398748">
+      <screen x="0" y="27" width="1920" height="892" />
+    </state>
+    <state width="1874" height="268" key="GridCell.Tab.0.left/0.27.1920.892@0.27.1920.892" timestamp="1584482398748" />
+    <state width="1874" height="294" key="GridCell.Tab.0.left/0.27.1920.957@0.27.1920.957" timestamp="1584233791179" />
+    <state width="912" height="299" key="GridCell.Tab.0.left/0.27.958.941@0.27.958.941" timestamp="1583792185649" />
+    <state width="919" height="299" key="GridCell.Tab.0.left/0.27.975.941@0.27.975.941" timestamp="1583965731323" />
+    <state width="1874" height="268" key="GridCell.Tab.0.right" timestamp="1584482398749">
+      <screen x="0" y="27" width="1920" height="892" />
+    </state>
+    <state width="1874" height="268" key="GridCell.Tab.0.right/0.27.1920.892@0.27.1920.892" timestamp="1584482398749" />
+    <state width="1874" height="294" key="GridCell.Tab.0.right/0.27.1920.957@0.27.1920.957" timestamp="1584233791180" />
+    <state width="912" height="299" key="GridCell.Tab.0.right/0.27.958.941@0.27.958.941" timestamp="1583792185661" />
+    <state width="919" height="299" key="GridCell.Tab.0.right/0.27.975.941@0.27.975.941" timestamp="1583965731324" />
+    <state width="919" height="299" key="GridCell.Tab.1.bottom" timestamp="1583965731326">
+      <screen x="0" y="27" width="975" height="941" />
+    </state>
+    <state width="912" height="299" key="GridCell.Tab.1.bottom/0.27.958.941@0.27.958.941" timestamp="1583792185665" />
+    <state width="919" height="299" key="GridCell.Tab.1.bottom/0.27.975.941@0.27.975.941" timestamp="1583965731326" />
+    <state width="919" height="299" key="GridCell.Tab.1.center" timestamp="1583965731325">
+      <screen x="0" y="27" width="975" height="941" />
+    </state>
+    <state width="912" height="299" key="GridCell.Tab.1.center/0.27.958.941@0.27.958.941" timestamp="1583792185663" />
+    <state width="919" height="299" key="GridCell.Tab.1.center/0.27.975.941@0.27.975.941" timestamp="1583965731325" />
+    <state width="919" height="299" key="GridCell.Tab.1.left" timestamp="1583965731325">
+      <screen x="0" y="27" width="975" height="941" />
+    </state>
+    <state width="912" height="299" key="GridCell.Tab.1.left/0.27.958.941@0.27.958.941" timestamp="1583792185662" />
+    <state width="919" height="299" key="GridCell.Tab.1.left/0.27.975.941@0.27.975.941" timestamp="1583965731325" />
+    <state width="919" height="299" key="GridCell.Tab.1.right" timestamp="1583965731326">
+      <screen x="0" y="27" width="975" height="941" />
+    </state>
+    <state width="912" height="299" key="GridCell.Tab.1.right/0.27.958.941@0.27.958.941" timestamp="1583792185664" />
+    <state width="919" height="299" key="GridCell.Tab.1.right/0.27.975.941@0.27.975.941" timestamp="1583965731326" />
+    <state x="0" y="131" key="SettingsEditor" timestamp="1583963072587">
+      <screen x="0" y="27" width="975" height="941" />
+    </state>
+    <state x="0" y="131" key="SettingsEditor/0.27.958.941@0.27.958.941" timestamp="1583273667305" />
+    <state x="0" y="131" key="SettingsEditor/0.27.975.941@0.27.975.941" timestamp="1583963072587" />
+    <state x="266" y="186" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583872089304">
+      <screen x="0" y="27" width="975" height="941" />
+    </state>
+    <state x="266" y="186" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.975.941@0.27.975.941" timestamp="1583872089304" />
+    <state x="0" y="187" width="965" height="595" key="new project wizard" timestamp="1584396668508">
+      <screen x="0" y="27" width="958" height="876" />
+    </state>
+    <state x="0" y="187" key="new project wizard/0.27.958.876@0.27.958.876" timestamp="1584396668508" />
+    <state x="0" y="199" width="965" height="595" key="new project wizard/0.27.975.941@0.27.975.941" timestamp="1583878240203" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/blocks.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="low == high" language="Python" />
+          <url>file://$PROJECT_DIR$/hilo.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
