@@ -20,5 +20,5 @@ for name, phone, email in cursor:
     print(email)
     print("-" * 20)
 cursor.close()
+db.commit()
 db.close()
-
