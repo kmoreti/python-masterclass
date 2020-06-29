@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f0836e4-b0f8-4032-b8a7-b83e61152a89" name="Default Changelist" comment="" />
+    <list default="true" id="2f0836e4-b0f8-4032-b8a7-b83e61152a89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listexercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/allgotcha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/anyall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/anycomprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/filtertest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/namedtupletest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/reduceintro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map/map_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../map/map_intro.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,17 +33,43 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZEG76NED5GwbrMFtoFexsUpFvN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Iterators" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.listexercise">
+    <configuration name="listexercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroToLists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listexercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroToLists" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,8 +91,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroToLists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroToLists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.listexercise" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.lists" />
       </list>
     </recent_temporary>
@@ -69,29 +156,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="522" height="741" key="GridCell.Tab.0.bottom" timestamp="1584483127614">
+    <state x="265" y="222" width="424" height="681" key="FileChooserDialogImpl" timestamp="1592861489370">
+      <screen x="0" y="27" width="958" height="876" />
+    </state>
+    <state x="265" y="222" key="FileChooserDialogImpl/0.27.958.876@0.27.958.876" timestamp="1592861489370" />
+    <state x="270" y="222" width="424" height="681" key="FileChooserDialogImpl/0.27.975.876@0.27.975.876" timestamp="1592858608782" />
+    <state width="1874" height="465" key="GridCell.Tab.0.bottom" timestamp="1593386649405">
       <screen x="0" y="27" width="1920" height="892" />
     </state>
-    <state width="522" height="741" key="GridCell.Tab.0.bottom/0.27.1920.892@0.27.1920.892" timestamp="1584483127614" />
-    <state width="456" height="725" key="GridCell.Tab.0.bottom/0.27.958.876@0.27.958.876" timestamp="1584399277890" />
-    <state width="522" height="741" key="GridCell.Tab.0.center" timestamp="1584483127613">
+    <state width="1874" height="465" key="GridCell.Tab.0.bottom/0.27.1920.892@0.27.1920.892" timestamp="1593386649405" />
+    <state width="912" height="181" key="GridCell.Tab.0.bottom/0.27.958.876@0.27.958.876" timestamp="1592861232261" />
+    <state width="929" height="455" key="GridCell.Tab.0.bottom/0.27.975.876@0.27.975.876" timestamp="1592865102675" />
+    <state width="1874" height="465" key="GridCell.Tab.0.center" timestamp="1593386649404">
       <screen x="0" y="27" width="1920" height="892" />
     </state>
-    <state width="522" height="741" key="GridCell.Tab.0.center/0.27.1920.892@0.27.1920.892" timestamp="1584483127613" />
-    <state width="456" height="725" key="GridCell.Tab.0.center/0.27.958.876@0.27.958.876" timestamp="1584399277889" />
-    <state width="522" height="741" key="GridCell.Tab.0.left" timestamp="1584483127612">
+    <state width="1874" height="465" key="GridCell.Tab.0.center/0.27.1920.892@0.27.1920.892" timestamp="1593386649404" />
+    <state width="912" height="181" key="GridCell.Tab.0.center/0.27.958.876@0.27.958.876" timestamp="1592861232260" />
+    <state width="929" height="455" key="GridCell.Tab.0.center/0.27.975.876@0.27.975.876" timestamp="1592865102674" />
+    <state width="1874" height="465" key="GridCell.Tab.0.left" timestamp="1593386649403">
       <screen x="0" y="27" width="1920" height="892" />
     </state>
-    <state width="522" height="741" key="GridCell.Tab.0.left/0.27.1920.892@0.27.1920.892" timestamp="1584483127612" />
-    <state width="456" height="725" key="GridCell.Tab.0.left/0.27.958.876@0.27.958.876" timestamp="1584399277888" />
-    <state width="522" height="741" key="GridCell.Tab.0.right" timestamp="1584483127614">
+    <state width="1874" height="465" key="GridCell.Tab.0.left/0.27.1920.892@0.27.1920.892" timestamp="1593386649403" />
+    <state width="912" height="181" key="GridCell.Tab.0.left/0.27.958.876@0.27.958.876" timestamp="1592861232259" />
+    <state width="929" height="455" key="GridCell.Tab.0.left/0.27.975.876@0.27.975.876" timestamp="1592865102674" />
+    <state width="1874" height="465" key="GridCell.Tab.0.right" timestamp="1593386649404">
       <screen x="0" y="27" width="1920" height="892" />
     </state>
-    <state width="522" height="741" key="GridCell.Tab.0.right/0.27.1920.892@0.27.1920.892" timestamp="1584483127614" />
-    <state width="456" height="725" key="GridCell.Tab.0.right/0.27.958.876@0.27.958.876" timestamp="1584399277889" />
-    <state x="269" y="174" width="1372" height="595" key="new project wizard" timestamp="1584478274742">
-      <screen x="0" y="27" width="1920" height="892" />
+    <state width="1874" height="465" key="GridCell.Tab.0.right/0.27.1920.892@0.27.1920.892" timestamp="1593386649404" />
+    <state width="912" height="181" key="GridCell.Tab.0.right/0.27.958.876@0.27.958.876" timestamp="1592861232260" />
+    <state width="929" height="455" key="GridCell.Tab.0.right/0.27.975.876@0.27.975.876" timestamp="1592865102675" />
+    <state x="150" y="213" width="672" height="678" key="search.everywhere.popup" timestamp="1592863679661">
+      <screen x="0" y="27" width="975" height="876" />
     </state>
-    <state x="269" y="174" width="1372" height="595" key="new project wizard/0.27.1920.892@0.27.1920.892" timestamp="1584478274742" />
+    <state x="150" y="213" width="672" height="678" key="search.everywhere.popup/0.27.975.876@0.27.975.876" timestamp="1592863679661" />
   </component>
 </project>
